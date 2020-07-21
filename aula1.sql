@@ -1,6 +1,6 @@
 CREATE DATABASE curso_sql;  
 
-USE curso_sql; -- NECESSARIO usar e executar para nao dar erro
+USE curso_sql; -- NECESSARIO usar e executar ANTES DE TODOS para nao dar erro
 
 CREATE TABLE funcionarios 
 (
